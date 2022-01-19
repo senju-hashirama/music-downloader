@@ -13,3 +13,5 @@ iv)  After the installation run "python -m streamlit run gui.py"
 V) Enjoy listening to your favourate songs!!!!
 
 # Screenshots:
+
+![screenshot](https://user-images.githubusercontent.com/85382114/150188233-a04f8323-f6c6-4e58-a8e2-0f6b988cc76b.png)
