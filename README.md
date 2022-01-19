@@ -3,15 +3,15 @@ Download any song you feel like listening to!!!!!!
 
 
 # 🤔🤔🤔 How to install??? 🤔🤔🤔
-i) First clone the repo or download the zip file.
+i)   First clone the repo or download the files as a zip file.
 
-ii) Open cmd/terminal and navigate to the downloaded or cloned files.
+ii)  Open cmd/terminal and navigate to the directory where the files are downloaded.
 
 iii) Now run "pip install -r requirements.txt"
 
 iv)  After the installation run "python -m streamlit run gui.py"
 
-V) Enjoy listening to your favourate songs!!!!
+V)   Enjoy listening to your favourate songs!!!!
 
 
 
