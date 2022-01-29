@@ -4,8 +4,6 @@ from pyDes import *
 import base64
 des_cipher = des(b"38346591", ECB, b"\0\0\0\0\0\0\0\0" , pad=None, padmode=PAD_PKCS5)
 base_url = 'http://h.saavncdn.com'
-pentry="""#<unknown> - {}
-C:\\Users\\monish\\Music{}.mp3"""
 st.set_page_config(page_title="Music")
 
 def play_music(url):
